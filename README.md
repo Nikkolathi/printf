@@ -29,3 +29,4 @@ The printf function takes text as input and displays it on screen as stdout.
 
 ## Contributors
 1. Nicholus Mwanthi
+2. Asaph Brian
